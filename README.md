@@ -1,1 +1,1 @@
-# Töbjátékos Kígyó
+# Többjátékos Kígyó
